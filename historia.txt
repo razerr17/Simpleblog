@@ -1,1 +1,5 @@
-historia.txt
+Esta es la historia de Edgar
+
+Edgar tiene 21 años y nacio en Peru
+
+Hoy me la pelan todos.
